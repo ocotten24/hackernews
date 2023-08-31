@@ -1,0 +1,119 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+
+a {
+    color: black
+}
+
+a:visited {
+    color:black;
+}
+
+.header {
+    text-decoration: none;
+    background-color: #ff6600;
+    height: 0px;
+    margin: 70pt;
+    font-size: small;
+    position: relative;
+    top: -65pt;
+    left: 23pt;
+    width: 1440px;
+    color:black
+}
+
+.headertext {
+    position: relative;
+    left: 15pt;
+}
+
+.logoimage {
+    width: 15pt;
+    position: absolute;
+    top: .5pt;
+    right: 1064pt;
+}
+
+.login {
+    position: relative;
+    left: 45pt;
+}
+
+.posts:any-link {
+    font-size: 10pt;
+    color: black;
+}
+
+.posts:visited {
+    color: black
+}
+
+.linkedsite:any-link {
+    font-size: 8pt;
+    color: #828282;
+}
+
+.linkedsite:hover {
+    text-decoration: underline;
+}
+
+.subtext {
+    font-size: 7pt;
+    color: #828282;
+    position: absolute;
+    left: 30pt;
+}
+
+.sublinks:any-link {
+    color: #828282;
+}
+
+.sublinks:hover {
+    text-decoration: underline;
+}
+
+
+.rank {
+    color: #828282;
+    font-size: 10pt;
+}
+
+.vote {
+    width: 7pt
+}
+
+.allposts {
+    border-spacing: 10pt;
+    position: absolute;
+    left: 95pt;
+    top: 20pt;
+
+}
+
+
+.bar {
+    border-top: #ff6600 2pt solid;
+    width: 1440px;
+    padding: 10pt;
+}
+
+.bottom {
+    font-size: 8pt;
+    text-align: center;
+}
+
+.search {
+    color: #828282;
+    font-size: 10pt;
+}
+
+.more {
+    color: black;
+    font-size: 10pt;
+}
+
+.boxwidth {
+    width: 140pt;
+}
